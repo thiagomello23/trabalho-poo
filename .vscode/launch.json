@@ -1,0 +1,35 @@
+{
+	// Use o IntelliSense para saber mais sobre os atributos possíveis.
+	// Focalizar para exibir as descrições dos atributos existentes.
+	// Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "SQLFactory",
+			"request": "launch",
+			"mainClass": "SQLFactory",
+			"projectName": "SQLFactory_8347c042"
+		},
+		{
+			"type": "java",
+			"name": "SQLFactory",
+			"request": "launch",
+			"mainClass": "SQLFactory",
+			"projectName": "SQLFactory_d26111d0"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch SQLFactory",
+			"request": "launch",
+			"mainClass": "SQLFactory",
+			"projectName": "SQLFactory_523e6e6d"
+		}
+	]
+}
