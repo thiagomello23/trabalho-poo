@@ -9,7 +9,7 @@ public class SQLFactory {
         Aluno aluno2 = new Aluno();
 
         aluno.email = "teste@email.com";
-        aluno.id = 4;
+        aluno.id = 12;
         aluno.nome = "mello";
         aluno.sobrenome = "diniz";
         aluno.telefone = "68193661";
@@ -17,7 +17,7 @@ public class SQLFactory {
 
         
         aluno2.email = "gmail@email.com";
-        aluno2.id = 6;
+        aluno2.id = 9;
         aluno2.nome = "geovane";
         aluno2.sobrenome = "fiirst";
         aluno2.telefone = "24680161";
@@ -27,13 +27,13 @@ public class SQLFactory {
         Professor professor = new Professor();
         Professor professor2 = new Professor();
 
-        professor.id = 1;
+        professor.id = 5;
         professor.especialidade = "Programação";
         professor.nome = "leticia";
         professor.titulacao = "graduada";
         professor.sobrenome = "Pieper";
 
-        professor2.id = 3;
+        professor2.id = 8;
         professor2.especialidade = "Programação";
         professor2.nome = "Adriano";
         professor2.titulacao = "Graduado";
